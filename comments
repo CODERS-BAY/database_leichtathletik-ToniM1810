@@ -1,0 +1,11 @@
+Hallo Antonija, 
+
+Hier sind meine Kommentare zu deiner Abgabe: 
+
+Du müsstest dir noch einmal genau ansehen wo der jeweilige Fremdschlüssel gespeichert wird. 
+Bei deiner Datenbank sind die Fremdschlüssel in der jeweilig falschen Tabelle. Daraus resultiert das folgende: 
+- Du kannst bei deinem Event nur einen Helfer helfen lassen. 
+- Dein Event hat nur ein Ergebnis
+- An einem Ort kann nur ein Event stattfinden. 
+
+Ansonsten hast du alle Primarykeys richtig gesetzt und die Datentypen sinnvoll vergeben!
